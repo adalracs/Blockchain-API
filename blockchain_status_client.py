@@ -29,8 +29,8 @@ class BlockchainStatusClient:
                 "error": error_message
             }
 
-# Ejemplo de uso
-if __name__ == "__main__":
-    client = BlockchainStatusClient()
-    status = client.check_chain_status()
-    print(status)
+# Example
+#if __name__ == "__main__":
+#    client = BlockchainStatusClient()
+#    status = client.check_chain_status()
+#    print(status)
